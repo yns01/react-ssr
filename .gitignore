@@ -1,0 +1,23 @@
+server/node_modules
+server/build
+
+.eslintcache
+.env.local
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# JetBrains ide folder
+.idea/
+
+# jest code coverage
+coverage
+
+# Various
+.DS_Store
+
+#Excluded folders
+.idea
+.vscode
